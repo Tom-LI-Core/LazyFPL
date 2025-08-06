@@ -1,0 +1,7 @@
+pandas
+requests
+pulp
+scikit‑learn
+xgboost
+jupyterlab
+pytest
