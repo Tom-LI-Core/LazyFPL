@@ -5,3 +5,6 @@ scikit‑learn
 xgboost
 jupyterlab
 pytest
+torch
+torchmetrics
+pytorch-lightning
